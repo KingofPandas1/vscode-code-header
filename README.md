@@ -6,6 +6,14 @@
 ## Description
 This Visual Studio Code extension automatically inserts a header comment with the author's name, file name, and creation date at the top of the file.
 
+## Installation
+To build and install the extension locally:
+
+npm install
+npm run compile
+vsce package
+code --install-extension code-header-0.0.1.vsix
+
 ## Usage
 1. Open any file in VS Code.
 2. Press `Ctrl + Shift + P`.
