@@ -3,6 +3,10 @@
   "displayName": "code-header",
   "description": "Automatically adds file header with author and date",
   "version": "0.0.1",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/KingofPandas1/vscode-code-header.git"
+},
   "engines": {
     "vscode": "^1.105.0"
   },
